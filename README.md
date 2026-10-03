@@ -20,4 +20,6 @@
 
 [Sigil](https://github.com/Sigil-Ebook/Sigil)软件可以直接从 Sigil 官方 GitHub Releases 下载，在页面底部找到assets，选择windows x64安装程序；下载完成后使用Sigil打开epub，检查一下封面，章节，正文排版，标题层级等，有问题就小修一下。最后用[EPUBCheck](https://github.com/w3c/epubcheck)做工具验证，它可以作为Sigil的插件使用，也可以单独使用命令行，在github官方releases页面下载即可。
 
-**第6步：KindlePreviewer预览。**经过第5步，我们得到了精修的epub，在官网下载[Kindle Previewer](https://kdp.amazon.com/en_US/help/topic/G202131170)软件，打开做好的epub，预览一下如果没问题就可以直接send-to-kindle了
+**第6步：KindlePreviewer预览。**
+
+经过第5步，我们得到了精修的epub，在官网下载[Kindle Previewer](https://kdp.amazon.com/en_US/help/topic/G202131170)软件，打开做好的epub，预览一下如果没问题就可以直接send-to-kindle了
